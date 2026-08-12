@@ -1,4 +1,4 @@
-# Hi, I'm Farbod 👋
+# Hi, I'm Farbod
 
 I'm a Computer Engineering student at UBC with a strong interest in **embedded systems, systems engineering, FPGA/SoC design, low-level software, and digital design** ⚙️
 
@@ -21,5 +21,5 @@ C, C++, Python, Java, JavaScript, SystemVerilog, Linux, Git, Quartus, ModelSim
 - Digital systems and computer architecture
 - End-to-end technical problem solving
 
-## 🚀 Current Focus
+## Current Focus
 Building stronger embedded, systems, and software projects while growing toward firmware, systems, and embedded engineering roles.
