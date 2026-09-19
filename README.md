@@ -1,25 +1,47 @@
-# Hi, I'm Farbod
+# Farbod Alikhanzadeh
 
-I'm a Computer Engineering student at UBC with a strong interest in **embedded systems, systems engineering, FPGA/SoC design, low-level software, and digital design** ⚙️
+**Computer Engineering at the University of British Columbia**
 
-I’m especially interested in projects where hardware and software come together — building, debugging, validating, and improving complete systems from the ground up. I enjoy understanding how the full system behaves, tracing problems across layers, and turning technical ideas into reliable working implementations.
+Embedded Systems | FPGA/SoC Design | Low-Level Software | Full-Stack and Data Engineering
 
-## 🔧 What I work on
-- Embedded systems and hardware-software integration
-- FPGA/SoC and digital design projects
-- C/C++ and low-level systems programming
-- Python tooling, automation, and validation workflows
-- Software projects with practical real-world use
+[LinkedIn](https://www.linkedin.com/in/farbodalikhanzadeh/) | [Email](mailto:farbod.alikhanzadeh@gmail.com)
 
-## 🛠 Tech
-C, C++, Python, Java, JavaScript, SystemVerilog, Linux, Git, Quartus, ModelSim
+## About me
 
-## 📌 Interests
-- Embedded software
-- Systems engineering
-- Firmware and hardware bring-up
-- Digital systems and computer architecture
-- End-to-end technical problem solving
+I build complete systems across hardware and software. My work ranges from SystemVerilog and FPGA design to RISC-V development, Python-based machine learning, and full-stack applications backed by relational databases.
 
-## Current Focus
-Building stronger embedded, systems, and software projects while growing toward firmware, systems, and embedded engineering roles.
+I am most interested in understanding how an entire system behaves, tracing problems across layers, and turning technical designs into reliable working implementations.
+
+## Selected engineering work
+
+| Project | What it demonstrates | Core technologies |
+| --- | --- | --- |
+| [Kanboard Studio](https://github.com/FAR8ODA/Kanboard-Studio) | A full-stack issue tracker built around a normalized PostgreSQL model, hand-written parameterized SQL, safe dynamic queries, and database analytics | Next.js, TypeScript, PostgreSQL, SQL |
+| [Combo Lock FPGA](https://github.com/FAR8ODA/Combo-Lock-FPGA) | An FPGA-based combination-lock system implemented in SystemVerilog | SystemVerilog, FPGA, Quartus |
+| [RISC-V Tron Interrupts](https://github.com/FAR8ODA/risc-v-tron-interrupts) | An interrupt-driven Tron implementation written in C for a RISC-V platform | C, RISC-V, Interrupts |
+| [Auralytics](https://github.com/FAR8ODA/Auralytics-Web-App) | An audio-analysis web application combining Python processing and machine-learning inference | Python, Machine Learning, Web Development |
+
+## Technical strengths
+
+**Embedded and digital systems**
+
+C, C++, SystemVerilog, FPGA/SoC design, RISC-V, digital logic, and hardware-software integration
+
+**Software and data**
+
+Python, TypeScript, JavaScript, SQL, PostgreSQL, Next.js, and React
+
+**Engineering tools**
+
+Linux, Git, Quartus, ModelSim, debugging, validation, and technical documentation
+
+## Engineering approach
+
+- Understand system behavior across hardware, software, and data boundaries
+- Keep interfaces, data models, and implementation decisions explicit
+- Validate the complete workflow, not only the individual components
+- Document setup, tradeoffs, and current limitations honestly
+
+## Current focus
+
+I am strengthening my embedded, systems, and data-backed software portfolio while pursuing software, firmware, embedded systems, and systems engineering opportunities.
