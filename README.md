@@ -16,7 +16,6 @@ I am most interested in understanding how an entire system behaves, tracing prob
 
 | Project | What it demonstrates | Core technologies |
 | --- | --- | --- |
-
 | [Combo Lock FPGA](https://github.com/FAR8ODA/Combo-Lock-FPGA) | An FPGA-based combination-lock system implemented in SystemVerilog | SystemVerilog, FPGA, Quartus |
 | [RISC-V Tron Interrupts](https://github.com/FAR8ODA/risc-v-tron-interrupts) | An interrupt-driven Tron implementation written in C for a RISC-V platform | C, RISC-V, Interrupts |
 | [Auralytics](https://github.com/FAR8ODA/Auralytics-Web-App) | An audio-analysis web application combining Python processing and machine-learning inference | Python, Machine Learning, Web Development |
